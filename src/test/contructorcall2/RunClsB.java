@@ -6,5 +6,4 @@ public class RunClsB {
 		ClsB c = new ClsB(10);
 
 	}
-
 }
