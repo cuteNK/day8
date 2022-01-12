@@ -12,5 +12,4 @@ public class RunWeapon {
 		Weapon w = new Weapon();
 		w.fire();
 	}
-
 }
